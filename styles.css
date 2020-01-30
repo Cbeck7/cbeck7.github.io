@@ -3,6 +3,10 @@ Primary Color: Burgundy
 Secondary Color: teal
 */
 
+body{
+  background: plum;
+}
+
 h1{
   color:teal;
   font-family: 'Bowlby One SC', cursive;
