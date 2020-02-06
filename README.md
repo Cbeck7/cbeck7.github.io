@@ -1,6 +1,8 @@
 # cbeck7.github.io
 praisecthulhu.com
 
+## Bio
+I am a current student at Eastern Washington University, taking Web Design 1 and learning how to code HTML.
 
 ## Style Tile
 ### Colors

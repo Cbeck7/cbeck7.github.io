@@ -4,11 +4,11 @@ Secondary Color: teal
 */
 
 body{
-  background: plum;
+  background: teal;
 }
 
 h1{
-  color:teal;
+  color:orange;
   font-family: 'Bowlby One SC', cursive;
   font-size: 48px;
   letter-spacing: 100px;
@@ -20,7 +20,7 @@ ol{
 }
 
 p{
-  color:#8C001A;
+  color:orange;
   font-size: 20px;
 }
 
