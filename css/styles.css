@@ -16,14 +16,24 @@ h1{
 }
 
 ol{
-  font-size: 24px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 p{
+  display: flex;
+  justify-content: center;
   color:orange;
   font-size: 20px;
 }
 
-img{
-  width:50%;
+figure {
+  background: orange;
+  border-radius: 15%;
+  display: flex;
+  justify-content: center;
+  
+
 }

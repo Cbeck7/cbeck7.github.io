@@ -31,13 +31,18 @@ values: path to image. alternative text value
   <p>
     I am a current student at Eastern Washington University, taking Web Design 1 and learning how to code HTML.
   </p>
-<img src="img/me@1x.png" 
-     srcset="img/me@2x.png 2x"
-     srcset="img/me@3x.png 3x"
-     srcset="img/me@0.5x.png .5x"
-    alt="Cory Beck">
 
+<figure>
+<img srcset="
+    img/me@1x.png 1x,
+    img/me@2x.png 2x,
+    img/me@3x.png 3x,
+    img/me@0.5x.png .5x"
+    src="img/me@1x.png"
+    alt="Cory Beck">
+</figure>
 
     <script src="js/scripts.js"></script>
+  
 </body>
 </html>
